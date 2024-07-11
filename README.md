@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zanny Athalia Maholobela</h1>
-<h3 align="center">A Software Developer and Women in Web3 Community Lead</h3>
+<h3 align="center">A Junior Software Developer and Women in Web3 Community Lead</h3>
 
-- 🌱 I’m currently learning **React, Flutter,angular, devops**
+- 🌱 I’m currently learning **Flutter,java**
 
 - 📫 How to reach me **zannymaholobela2001@gmail.com**
 
