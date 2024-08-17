@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zanny Athalia Maholobela</h1>
 <h3 align="center">A Software Developer and Women in Web3 Community Lead</h3>
 
-- 🔭 I’m currently working on **APS Calculator App**
+- 🔭 I’m currently working on ** ----- **
 
 - 🌱 I’m currently learning **Flutter, java**
 
