@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ** ----- **
 
-- 🌱 I’m currently learning ** java, HTML, CSS, JavaScript**
+- 🌱 I’m currently learning ** java, HTML, CSS, JavaScript, SQL**
 
 - 📫 How to reach me **zannymaholobela2001@gmail.com**
 
