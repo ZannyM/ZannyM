@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on ** ----- **
 
-- 🌱 I’m currently learning ** java, HTML, CSS, JavaScript, SQL**
+- 🌱 I’m currently learning ** java, HTML, CSS, JavaScript, SQLite**
 
-- 📫 How to reach me **zannymaholobela2001@gmail.com**
+- 📫 How to reach me **zmaholobela@icloud.com**
 
 - ⚡ Fun fact **I like reading books, watching K-drama and i am very hands on and believe i can fix and assemble anything with a manual book**
 
