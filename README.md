@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zanny Athalia Maholobela</h1>
 <h3 align="center">A Software Developer | Women in Web3 Community Lead | WomentThinkCode Social Media Coordinator</h3>
 
-- 🔭 I’m currently working on ** Hackathon and personal projects----- **
+- 🔭 I’m currently working on ** ---- **
 
 - 🌱 I’m currently learning ** java, HTML, CSS, JavaScript, SQLite**
 
