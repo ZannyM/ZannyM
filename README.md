@@ -1,9 +1,7 @@
 <h1 align="center">Hey 👋, I'm Zanny Athalia Maholobela</h1>
 <h3 align="center">A Software Developer | Women in Web3 Community Lead | WomentThinkCode Social Media Coordinator</h3>
 
-- 🔭 I’m currently working on **My Porfolio and Iteration 4 DEMO Project**
-
-- 🌱 I’m currently learning **Systems Intergration***
+- 🔭 
 
 - 📫 How to reach me **zmaholobela@icloud.com**
 **zannymaholobela2001@gmail.com**
