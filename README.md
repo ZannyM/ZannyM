@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **zmaholobela@icloud.com**
 **zannymaholobela2001@gmail.com**
-- ⚡ Fun fact **I like reading books, watching K-drama and i am very hands on and believe i can fix and assemble anything with a manual book**
+- ⚡ Fun fact **I like reading books, watching K-drama and i am very hands on and believe i can fix and assemble anything with a manual book , the next aspiring java developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
