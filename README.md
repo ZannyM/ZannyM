@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Zanny Athalia Maholobela</h1>
-<h3 align="center">A Software Developer | Women in Web3 Community Lead | Aspiring Java Developer</h3> 🔭 
+<h3 align="center">A Software Developer |  Aspiring Java Developer</h3> 🔭 
 
 - 📫 How to reach me **zmaholobela@icloud.com**
 **zannymaholobela2001@gmail.com**
