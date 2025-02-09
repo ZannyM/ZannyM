@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **The Gaming Leaderboard API will allow users (players) to participate in a game, track their scores, and be ranked on a leaderboard**
 
-- 🌱 I’m currently learning **Scrum basics**
+- 🌱 I’m currently learning **MERN stack**
 
 - 📫 How to reach me **zannymaholobela2001@gmail.com**
 
