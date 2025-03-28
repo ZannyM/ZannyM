@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zanny Athalia Maholobela</h1>
 <h3 align="center"> A passionate Software Developer | Aspiring java Developer</h3>
 
-
-- 🌱 I’m currently learning **MERN stack**
-
 - 📫 How to reach me **zannymaholobela2001@gmail.com**
 
 - ⚡ Fun fact **I like hiking, exploring different resturants and i occasionally run marathons**
