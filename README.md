@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **zannymaholobela2001@gmail.com**
 
-- ⚡ Fun fact **I like hiking, exploring different resturants and i occasionally run marathons**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/zannymaholobela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/zannymaholobela" height="30" width="40" /></a>
