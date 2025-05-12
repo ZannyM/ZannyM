@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Zanny Athalia Maholobela, a Software Developer based in Johannesburg. I am extremely passionate about mixing my creative interests with programming. I also adore learning new technologies and look forward to finding my place within the tech industry.
+Hi! I'm Zanny Athalia Maholobela, a Software Developer based in Johannesburg. I am extremely passionate about mixing my creative interests with programming. I also adore learning new technologies and look forward to finding my place within the tech industry. I am currently working on my portfolio website that will be built using React.
 
 
 ## 🌐 Socials:
