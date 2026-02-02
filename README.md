@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Zanny Athalia Maholobela, a Software Developer based in Johannesburg. I am extremely passionate about mixing my creative interests with programming. I also adore learning new technologies and look forward to finding my place within the tech industry. I am currently working on a newsfeed aggregator project to strength my systems integration skills.
+Hi! I'm Zanny Athalia Maholobela, a Software Developer based in Johannesburg. I am extremely passionate about mixing my creative interests with programming. I also adore learning new technologies and look forward to finding my place within the tech industry. I am currently working on a *********** project to strength my systems integration skills.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zannymaholobela) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zannymaholobela2001@gmail.com) 
