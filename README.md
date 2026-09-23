@@ -55,7 +55,7 @@ I learn fast, enjoy collaboration under senior guidance, and focus on writing re
 ### 🧾 Inkosi Admin — Restaurant Management Dashboard
 - Built a separate React admin platform connected to the same Node.js/Express API
 - Enabled live incoming order monitoring and complete menu management for staff
-- 🔗 https://inkosi-admin.netlify.app/
+- 🔗
 
 ---
 
