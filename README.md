@@ -50,7 +50,7 @@ I learn fast, enjoy collaboration under senior guidance, and focus on writing re
 ### 🍽️ Inkosi Restaurant — Full Stack Ordering and Delivery Web App
 - Built on the MERN stack with a React frontend, Node.js/Express REST API, and MongoDB
 - Added secure Paystack payments with backend verification and order status updates
-- 🔗 https://inkosirestaurant.netlify.app/
+- 🔗 https://inkosiresturant.netlify.app/
 
 ### 🧾 Inkosi Admin — Restaurant Management Dashboard
 - Built a separate React admin platform connected to the same Node.js/Express API
