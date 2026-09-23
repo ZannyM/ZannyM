@@ -1,7 +1,7 @@
-# 👩🏽‍💻 Anny Athalia Maholobela
-### Junior Software Developer | Johannesburg, Gauteng
+# 👩🏽‍💻 Zanny Athalia Maholobela
+### AWS Certified Junior Software Developer | Johannesburg, Gauteng
 
-I’m a junior developer with hands-on production experience building and integrating backend systems across enterprise platforms.  
+I’m a junior developer with hands-on professional experience across enterprise platforms.  
 I learn fast, enjoy collaboration under senior guidance, and focus on writing reliable, maintainable code.
 
 ---
@@ -11,19 +11,6 @@ I learn fast, enjoy collaboration under senior guidance, and focus on writing re
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6f42c1?style=for-the-badge&logo=vercel&logoColor=white)](https://zannym.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-zmaholobela12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zmaholobela12@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@ZannyM-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZannyM)
-
----
-
-## 🧠 Professional Summary
-- Junior Software Developer with real production integration experience
-- Built and consumed APIs across enterprise systems
-- Strong interest in backend engineering, systems integration, and continuous learning
-
----
-
-## 🎓 Education
-- **BSc Computer Science and Mathematics** — University of South Africa (UNISA), Johannesburg *(In Progress)*
-- **Higher Certificate in Systems Development** — WeThinkCode_, Johannesburg *(Completed: December 2024)*
 
 ---
 
@@ -58,19 +45,8 @@ I learn fast, enjoy collaboration under senior guidance, and focus on writing re
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Scrum](https://img.shields.io/badge/Agile%2FScrum-009688?style=for-the-badge)
 
----
 
-## 💼 Work Experience
-### Technical Consultant Intern — Consnet *(July 2025 – May 2026)*
-- Designed and consumed REST APIs across SAP ERP, Adobe Commerce, and middleware systems for order processing, customer sync, pricing validation, and inventory checks
-- Wrote and debugged SQL queries against production relational database schemas
-- Built and maintained Docker-based development environments on Linux/WSL2
-- Investigated and resolved a silent production integration failure through root-cause analysis, formal reporting, and stakeholder communication
-- Produced technical documentation and functional specifications for better team knowledge transfer
-
----
-
-## 🚀 Projects
+## 🚀Latest Projects
 ### 🍽️ Inkosi Restaurant — Full Stack Ordering and Delivery Web App
 - Built on the MERN stack with a React frontend, Node.js/Express REST API, and MongoDB
 - Added secure Paystack payments with backend verification and order status updates
@@ -83,17 +59,7 @@ I learn fast, enjoy collaboration under senior guidance, and focus on writing re
 
 ---
 
-## 📜 Certifications
-- Scrum Basics — Agile Education by Scrum Inc *(Registered / In Progress)*
-- AWS Certified Cloud Practitioner — Amazon Web Services
-
----
-
 ## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZannyM&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="ZannyM GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZannyM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ZannyM&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
