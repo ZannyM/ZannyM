@@ -1,7 +1,7 @@
 # 👩🏽‍💻 Zanny Athalia Maholobela
-### AWS Certified Junior Software Developer | Johannesburg, Gauteng
+### AWS Certified Software Engineer | Johannesburg, Gauteng
 
-I’m a junior developer with hands-on professional experience across enterprise platforms.  
+I’m a software engineer with hands-on professional experience across enterprise platforms.  
 I learn fast, enjoy collaboration under senior guidance, and focus on writing reliable, maintainable code.
 
 ---
